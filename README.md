@@ -4,7 +4,7 @@ A cinematic interactive 3D experience built with Three.js. One architectural spa
 
 ## 🚀 How to Run
 
-https://realityinyou.netlify.app
+https://realityinus.netlify.app
 
 ## 🎮 Controls
 
