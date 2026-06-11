@@ -4,7 +4,7 @@ A cinematic interactive 3D experience built with Three.js. One architectural spa
 
 ## 🚀 How to Run
 
-https://echowolrdss.netlify.app
+https://echoworldss.netlify.app
 
 ## 🎮 Controls
 
